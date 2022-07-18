@@ -1,5 +1,5 @@
 # PS
 Problem Solving 기록일지 
-- 백준
-- 코드포스
-- atcoder
+- 백준 : 실버5 이상만 업로드
+- Codeforces
+- Atcoder
