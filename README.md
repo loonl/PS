@@ -16,8 +16,6 @@ Codeforces https://codeforces.com/profile/lun3l
 
 Atcoder https://atcoder.jp/users/LuneL
 
-## Explanations
-
 Templates
 -----
 There are several basic templates when I usually use during problem solving.
