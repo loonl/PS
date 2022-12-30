@@ -5,7 +5,7 @@ This is a place to store my problem solving codes. You can find more information
 Problem solving in CS is the process of transforming the description of a problem into a solution by using computer. We analyze the problem and type a code in order to create a solution for specific problems.
 
 ## When did I start?
-I have been doing this since 2021.02.02.
+I have been doing this since Februrary 2nd, 2022.
 
 ## Profiles
 These are my profile links in main PS websites. I usually use Baekjoon Online Judge.
